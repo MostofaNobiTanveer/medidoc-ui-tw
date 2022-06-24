@@ -18,11 +18,11 @@ const Home = () => {
           <Appointments />
         </div>
 
-        <div className="md:col-span-6 col-span-12 md:order-2">
+        <div className="md:col-span-7 col-span-12 md:order-2">
           <Todo />
         </div>
 
-        <div className="xl:col-span-6 col-span-12 md:order-4">
+        <div className="xl:col-span-5 col-span-12 md:order-4">
           <Updates />
         </div>
       </div>
